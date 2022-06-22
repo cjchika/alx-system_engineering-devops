@@ -1,1 +1,1 @@
-Print Work Directory
+pwd - Print Work Directory
